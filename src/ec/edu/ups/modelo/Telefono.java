@@ -18,8 +18,9 @@ public class Telefono {
         this.num_telf = num_telf;
     }
     
-    //
 
+    
+    //
     public int getCodigo() {
         return codigo;
     }

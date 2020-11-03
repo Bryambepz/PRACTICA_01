@@ -12,6 +12,7 @@ import java.util.Objects;
  * @author braya
  */
 public class Persona {
+    //atributos
     private int codigo;
     private String cedula;
     private String nombre; 
